@@ -1,5 +1,5 @@
 ## <h1 align="center">Hello World 👋, I'm LAKHAL Badr</h1>
-<h3 align="center">Enthralled by Data Engineering & Data Science</h3>
+
 
 
 
