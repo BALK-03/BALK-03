@@ -1,16 +1,18 @@
-### Hi there 👋
+## <h1 align="center">Hello World 👋, I'm LAKHAL Badr</h1>
+<h3 align="center">Enthralled by Data Engineering & Data Science</h3>
 
-<!--
-**BALK-03/BALK-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+A Data Engineering student at INPT. Passionate about all things data, I'm on a journey to explore every facet of this field through exciting projects that I share on GitHub. Join me as I continue to learn and create, diving deeper into the world of data! :D
+
+
+
+*<h3 align="left">My stats : </h3>*
+<p align="left">
+</p>
+
+<div style="color: black; text-align: left;">
+  <img src="https://github-readme-stats.vercel.app/api?username=balk-03&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
+</div>
