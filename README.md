@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World,+I'm+LAKHAL+Badr+👋;a+Data+Science+student+:D" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World,+I'm+LAKHAL+Badr+👋;a+Data+Science+student+at+INPT:D" alt="Typing SVG">
   </a>
 </p>
 
